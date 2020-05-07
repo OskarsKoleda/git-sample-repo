@@ -1,4 +1,4 @@
-git status
+git status -> check status
 git init
 git config --global
 git add
