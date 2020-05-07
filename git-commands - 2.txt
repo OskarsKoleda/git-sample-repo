@@ -1,0 +1,9 @@
+git status -> check status
+git init
+git config --global user.name -> commands to provid authorization to git repository
+git config --global user.email -> commands to provid authorization to git repository
+git config -> one repositary
+git add
+git commit -m ""
+git log
+Git diff <filename>
